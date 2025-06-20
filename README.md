@@ -1,3 +1,7 @@
+# AI USAGE
+This is my first try at "vibe" coding.
+I used Cursor.Ai and this entire project took 02 Hours 03 Minutes from start to the last commit.
+
 # Video Processing App
 
 This app scans a directory for video files, processes each file with a GPU-accelerated or CPU-based ffmpeg command to create a 1080p HEVC version, and logs the results to a JSON file. It only processes files that haven't been processed before, and records the size difference between the original and processed files.
