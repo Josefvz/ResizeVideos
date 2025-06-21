@@ -1,6 +1,8 @@
 # Log files
 *.log
 process_log.json
+processing.log
+error_log.txt
 
 # Python
 __pycache__/
